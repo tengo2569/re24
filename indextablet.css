@@ -1,0 +1,245 @@
+@media (width>768px){
+    .brgrmenu{
+        display: none;
+    }
+    .cofee{
+      width: 236px;
+    }
+    .tengo{
+      margin-left: -550px;
+    }
+    .hidefortablet1{
+        display: flex;
+        width: 341px;
+    }
+    .container{
+        width: 768px;
+height: 3949px;
+    }
+    .firstline{
+        width: 690px;
+        gap: 265px;
+     
+    }
+    header{
+        width: 689px;
+       
+    }
+    .mainimg{
+width: 689px;
+ background-image: url(./assets/tablet/image-hero-coffeepress.jpg);
+      }
+      .hidefortablet1 a{
+        color: #83888F;
+font-family: 'Barlow';
+font-size: 12px;
+font-weight: 700;
+text-transform: uppercase;
+display: flex;
+font-display: row;
+gap: 33px;
+text-decoration: none;
+      }
+      .headtxt{
+        width: 398px;
+        height: 292px;
+        margin-left: 58px;
+       
+      }
+      h1{
+        text-align: left;
+        width: 329px;
+        height: 97px;
+        font-size: 48px;
+      }
+      .mainimg p{
+        width: 398px;
+        font-size: 15px;
+        text-align: left;
+        line-height: 25px;
+      }
+      .mainimg button{
+        margin-left: 0;
+      }
+      .middline{
+        width: 689px;
+height: 118px;
+
+      }
+      .middline h2{
+        font-size: 96px;
+line-height: 72px;
+      }
+      main{
+        width: 573px;
+      }
+      .box1{
+        width: 573px;
+   display: grid;
+   grid-template-columns: auto auto;
+      }
+      .box1 p{
+        width: 282px;
+        text-align: left;
+        line-height: 25px;
+      }
+      .box1 h2{
+        width: 255px;
+        height: 32px;
+        margin-left: -5px;
+        text-align: left;
+      }
+      .box1 img{
+        margin-left: 8px;
+      }
+      .b0{
+        margin-top: -15px;
+      }
+      .mainbox2-box1{
+        width: 688px;
+height: 573px;
+
+      }
+      .mainbox2-box1 h2{
+        margin-top: 71px;
+        font-size: 32px;
+        width: 264px;
+        margin-left: 210px;
+      }
+      .mainbox2-box1 p{
+        height: 77px;
+        width: 497px;
+        font-size: 15px;
+        margin-left: 95px;
+      }
+      .mainbox2-box2 {
+        width: 573px;
+height: 180px;
+border-radius: 8px;
+display: grid;
+grid-template-columns: auto auto;
+
+      }
+      .ovallines{
+        display: none;
+      }
+      .mainbox2-box2 h2{
+        width: 255px;
+        height: 32px;
+        text-align: left;
+        margin-left: 41px;
+      }
+     .mainbox2-box2 p{
+        width: 344px;
+        text-align: left;
+     }
+     .mainbox2-box2 img{
+        margin-top: 62px;
+     }
+     .ovallines{
+        display: flex;
+        flex-direction: row;
+        gap: 202px;
+        position: relative;
+        z-index: 5;
+        margin-top: 40px;
+      
+     }
+     .mainbox3{
+        margin-top: 390px;
+     }
+     .b22{
+        margin-top: -50px;
+     }
+     .b23{
+        margin-top: -240px;
+     }
+     .b24{
+        margin-top: -435px;
+     }
+     .mainbox3 h2{
+        width: 255px;
+        text-align: left;
+     }
+     .line{
+        display: flex;
+        width: 467px;
+height: 2px;
+top: 12px;
+left: 12px;
+stroke-width: 2px;
+stroke: #FDD6BA;
+position: absolute;
+
+     }
+     .mainbox3{
+        width: 690px;
+        margin-left: -70px;
+        height: 622px;
+     }
+     .mainbox3-box1{
+        width: 223px;
+height: 371px;
+
+     }
+     .mainbox3-box1 img{
+        margin-left: 0;
+     }
+     .mainbox3-box1 p{
+        width: 223px;
+        text-align: left;
+     }
+     .mainbox3-box1 h2{
+        width: 137px;
+        text-align: left;
+        height: 65px;
+     }
+     .boxes{
+        display: grid;
+        grid-template-columns: auto auto auto;
+     }
+     .b1{
+        margin-left: 0px;
+     }
+     .b2{
+        margin-top: 81px;
+        margin-left: 32px;
+     }
+     .b3{
+        margin-top: 30px;
+        margin-top: 81px;
+     }
+     .b3 h2{
+        width: 200px;
+     }
+     .mainbox3 button{
+        margin-top: 44px;
+        margin-left: 0;
+     }
+     footer{
+        margin-top: 144px;
+        width: 100vw;
+        justify-content: center;
+        align-items: center;
+        display: flex;
+        flex-direction: column;
+     }
+     .links{
+      display: flex;
+      flex-direction: row;
+     }
+     footer svg{
+      left: 0;
+     }
+     .line svg{
+      z-index: -1;
+     }
+    
+
+}
+
+     
+     
+    
+      
+     

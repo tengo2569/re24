@@ -1,0 +1,108 @@
+@media (width>1440px){
+    .container{
+        width: 100vw;
+        height: 2500px;
+    }
+    header{
+        width: 100vw;
+    }
+    .mainimg{
+        width: 100vw;
+        height: 790px;
+        background-image: url(./assets/desktop/meoreeeeeeeeeeeeeee.svg);
+    }
+    .mainimg p{
+        width: 445px;
+        margin-top: 32px;
+        margin-left: 86px;
+    }
+    .mainimg button{
+        margin-top: 56px;
+        margin-left: 86px;
+    }
+    .headtxt{
+        margin-top: 50px;
+    }
+    h1{
+width: 493px;
+height: 145px;
+font-size: 72px;
+margin-left: 86px;
+margin-top: 120px;
+line-height: 72px;
+    }
+    .firstline{
+        width: 100vw;
+        gap: 700px;
+        padding-left: 20px;
+        margin-top: 2%;
+    }
+    .hidefortablet1{
+        margin-left: 520px;
+    }
+    .middline{
+        width: 1111px;
+    }
+    /* .desimg{
+        display: flex;
+    } */
+    .gr1{
+        display: none;
+    }
+    .txt{
+        width: 540px;
+    }
+    .txt h2{
+        width: 357px;
+        font-size: 40px;
+    }
+    .txt p{
+        width: 540px;
+        height: 260px;
+    }
+    .greybox{
+        width: 1280px;
+        margin-left: -300px;
+    }
+    .greybox h2{
+     position: relative;
+     top: 100px;
+     left: -215px;
+    }
+    .greybox p{
+        width: 540px;
+        text-align: left;
+        top: 130px;
+        left: 245px;
+    }
+    footer{
+        height: 120px;
+        position: relative;
+        top: 500px;
+    }
+    .box3{
+        width: 1045px;
+    }
+    .b3{
+        margin-left: 450px;
+    }
+    .b2{
+        margin-left: 10px;
+    }
+    .midline h2{
+        left: -420px;
+    }
+    .fim1{
+        margin-top: 156px;
+    position: relative;
+    left: -453px;
+}
+        }
+        .links{
+           left: -105px;
+           position: relative;
+           top: -66px;
+        }
+        footer svg{
+            height: 24px;
+        }
