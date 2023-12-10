@@ -1,4 +1,8 @@
 @media (width>768px){
+  .Burgermenu{
+    display: none;
+  }
+
     .container{
       width: 768px;
   height: 2580px;
