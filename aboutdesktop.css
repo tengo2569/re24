@@ -23,6 +23,9 @@
     .headtxt{
         margin-top: 50px;
     }
+    .showdiv{
+        display:none
+    }
     h1{
 width: 493px;
 height: 145px;
