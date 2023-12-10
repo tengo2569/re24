@@ -20,6 +20,9 @@
     text-decoration: none;
     color: #83888F;
   }
+  .showdiv{
+    display:none;
+  }
   .hidefortablet1 a:hover{
     transform: scale(1.1);
   }
