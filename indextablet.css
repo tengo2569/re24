@@ -1,4 +1,8 @@
 @media (width>768px){
+   .Burgermenu{
+      display: none;
+    }
+
     .brgrmenu{
         display: none;
     }
@@ -29,6 +33,9 @@ height: 3949px;
 width: 689px;
  background-image: url(./assets/tablet/image-hero-coffeepress.jpg);
       }
+      .showdiv{
+         display: none;
+     }
       .hidefortablet1 a{
         color: #83888F;
 font-family: 'Barlow';
