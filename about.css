@@ -30,6 +30,8 @@ align-items: center;
 }
 header{
   /* border: 1px solid black; */
+  overflow: hidden;
+  position: relative;
   width: 327px;
   margin-top: 32px;
 }
@@ -237,3 +239,67 @@ footer svg:hover{
   transition: 1s;
   cursor: pointer;
 }
+
+
+.showdiv{
+  top: -20px;
+  left: 375px;
+  z-index: 10;
+  position: absolute;
+  width: 385px;
+  height: 667px;
+  background: #FEFCF7;
+}
+
+.margin1{
+  margin-top: 32px;
+  margin-left: 24px;
+}
+
+.Forpicture{
+  opacity: 0.3;
+  margin-top: 40px;
+  margin-left: 24px;
+  width: 327px;
+  height: 500px;
+}
+
+.fortext{
+  margin-top: 40px;
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  row-gap: 32px;
+}
+
+.fortext a{
+  text-decoration: none;
+  color: #333D4B;
+  text-align: center;
+  font-family: "Fraunces";
+  font-size: 24px;
+  font-weight: 900;
+  line-height: 32px; 
+}
+
+.active{
+  transform: translatex(-103%);
+  transition: all 2s;
+}
+
+.active2{
+  transform: translatex(0%);
+  transition: all 2s;
+}
+
+.Forpictures{
+  margin-top: 34px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  column-gap: 148px;
+}
+
+
+ 
